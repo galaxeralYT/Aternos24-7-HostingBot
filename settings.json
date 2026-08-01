@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " NovaMaceSMP.aternos.me",
+    "ip": "NovaMaceSMP.aternos.me",
     "port":  33130,
     "version": "",
     "try-creative": false
