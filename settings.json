@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "NovaBot",
+    "username": "NovaBtot",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalo4adl78"
+      "password": "chalo4adld78"
     },
     "anti-afk": {
       "enabled": true,
