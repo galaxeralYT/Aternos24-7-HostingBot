@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "NovaBtot",
+    "username": "NovaBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "novasmpgg.mcsh.io",
-    "port":  25565,
+    "ip": "NovaCraftSMPGGZ.aternos.me",
+    "port":  59302,
     "version": "",
     "try-creative": false
   },
