@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "novasmpggs.mcsh.io",
-    "port":  ,
+    "ip": "162.55.80.246",
+    "port":  14332,
     "version": "",
     "try-creative": false
   },
